@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # Real-Time Object Detection
 
 This project focuses on developing a real-time object detection system to identify and classify objects (such as vehicles, pedestrians, and animals) in video streams. The system is implemented in Python and utilizes pre-trained Deep Learning models via OpenCV's DNN module.
